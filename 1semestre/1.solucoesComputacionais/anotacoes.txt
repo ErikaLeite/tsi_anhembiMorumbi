@@ -1,1 +1,31 @@
-teste
+aula 2
+e se o usuario quiser escolher ou repetir
+
+laços de repetição 
+percorrer dados e encontrar o que precisa
+ou
+avaliar se determinado valor é maior do que o que já possui
+
+Dadas as dimensões de um retângulo, calcular e mostrar a sua área.
+
+variaveis
+
+float altura = ;
+float base   = ;
+float area   = ;
+
+escreva ("insira os dados de base e altura");
+ler(base, altura);
+area = base*altura;
+
+escreva ("a area do retangulo é: " +area+);
+
+
+Exemplo:
+
+lata = 50
+cobertura = 1 lata == 3m
+raio =
+altura =
+
+
