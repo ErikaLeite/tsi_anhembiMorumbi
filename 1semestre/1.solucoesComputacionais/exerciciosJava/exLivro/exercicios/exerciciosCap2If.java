@@ -28,7 +28,8 @@ public class exerciciosCap2If
             System.out.print("Insira outro número inteiro: ");//mensagem que é apresentada ao usuário
             num2 = input.nextInt();//o sistema lê o valor inserido e armazena na variavel num2
 
-            //condicionais
+            //condicionais que retornarão o que for 'true' no comparativo
+            //existem meios melhores para verificar cada if abaixo - switch
             if(num1 == num2)//se num1 for igual a num2...
                 System.out.printf("%d == %d%n", num1, num2);
 
